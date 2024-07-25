@@ -1,0 +1,1001 @@
+id,address_1,city,state_province,postal_code,country,latitude,longitude
+1,0219 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.181204,35.022002
+2,882 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.980111,35.191573
+3,3203 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.711292,35.185215
+4,7296 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.342562,34.287681
+5,70103 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.548111,34.496682
+6,6221 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.752573,35.262409
+7,5207 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.314074,35.01233
+8,21597 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.180398,35.026708
+9,3062 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.718029,35.201022
+10,463 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.903487,35.200721
+11,97384 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.980044,35.182796
+12,4186 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.5348,34.487614
+13,2966 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.450788,35.098278
+14,3970 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.531169,35.101461
+15,2607 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.507823,34.477212
+16,632 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.511379,35.06978
+17,350 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.705753,35.225031
+18,460 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.900259,35.200556
+19,90068 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.715689,35.217501
+20,757 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.867834,35.444843
+21,704 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.309321,34.232216
+22,417 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.315566,35.222591
+23,6196 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.985843,35.184352
+24,56117 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.900444,35.206207
+25,627 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.3579,34.282435
+26,47608 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.468527,35.083922
+27,870 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.294981,34.232506
+28,11402 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.42124,34.358898
+29,19635 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.239726,35.266566
+30,796 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.700006,35.22518
+31,8313 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.452325,35.295607
+32,9506 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.527914,34.471771
+33,081 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.10082,35.116854
+34,4197 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.908572,35.201354
+35,9866 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.991212,35.138605
+36,2634 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.717459,35.184802
+37,26800 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.751732,35.266091
+38,1127 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.844142,35.12905
+39,0792 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.712273,35.186848
+40,3060 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.350537,34.287418
+41,23136 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.425846,34.356404
+42,153 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.553021,34.541189
+43,02466 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.516592,35.069319
+44,973 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.34208,34.294799
+45,723 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.905744,35.200612
+46,71318 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.350593,34.288376
+47,135 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555383,34.547705
+48,0768 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.348636,34.29337
+49,856 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.199259,34.596893
+50,309 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.191862,34.592254
+51,34411 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.902375,35.203953
+52,330 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.338564,35.011357
+53,1554 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.524613,35.150604
+54,189 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.19339,34.595126
+55,654 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.426696,34.356867
+56,63079 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.714552,35.218659
+57,97244 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.293489,34.232466
+58,58308 Ariha Street,Jericho,The State of Palestine,90600,The State of Palestine,31.854189,35.444657
+59,266 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.987416,35.186142
+60,6085 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.854735,35.136619
+61,289 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.184384,35.028901
+62,1275 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.582494,35.116561
+63,43553 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.354932,34.285053
+64,16938 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.462487,35.282934
+65,3002 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.181034,35.023347
+66,417 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.992848,35.143301
+67,26119 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.847772,35.1386
+68,859 Martyrs Street,Rafah,The State of Palestine,00800,The State of Palestine,31.298879,34.223796
+69,2006 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.213489,35.250239
+70,992 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.755323,35.262306
+71,40190 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.294778,34.247073
+72,83870 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.924491,35.21431
+73,74762 Ariha Street,Jericho,The State of Palestine,90600,The State of Palestine,31.869742,35.448166
+74,077 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.718395,35.18137
+75,24827 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.977489,35.187857
+76,757 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.534088,34.493081
+77,0492 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.98677,35.131667
+78,6157 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.425062,34.355171
+79,043 Al-Quds Street,Tubas,The State of Palestine,44838,The State of Palestine,32.319365,35.224822
+80,70167 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.754667,35.262407
+81,58567 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.921563,35.218338
+82,9957 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.218307,35.241309
+83,18990 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.354378,34.289083
+84,8697 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.54393,35.11156
+85,82781 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.980692,35.148449
+86,23194 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.284523,34.241793
+87,66276 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.709556,35.227399
+88,6711 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.706876,35.221334
+89,217 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.451442,35.099874
+90,5334 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.719867,35.213808
+91,938 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.529452,35.15189
+92,39816 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.329026,35.223816
+93,38888 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.298497,34.24105
+94,33199 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.343155,34.287635
+95,4128 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.516454,35.061816
+96,543 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.28494,34.235543
+97,119 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.86431,35.458699
+98,5067 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.916511,35.214797
+99,6947 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.908014,35.205892
+100,050 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.526306,35.155171
+101,9335 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.515328,35.06719
+102,010 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.18626,35.027983
+103,05888 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.318298,35.027219
+104,667 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.701878,35.225942
+105,541 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.428027,34.354475
+106,325 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.468069,35.08544
+107,6128 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.465337,35.085658
+108,842 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.537007,35.117855
+109,6288 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.993438,35.133868
+110,832 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.544502,34.52206
+111,651 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.528698,34.501817
+112,35969 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.84344,35.134519
+113,538 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.316295,35.223771
+114,677 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.526487,34.482352
+115,4095 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.526405,34.490651
+116,873 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.713568,35.200536
+117,3786 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.750899,35.266791
+118,902 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.708505,35.209991
+119,48054 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.986004,35.197928
+120,612 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.532977,35.109292
+121,1934 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.318113,35.020516
+122,7278 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.224258,35.24059
+123,5332 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.511063,35.06916
+124,7403 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.46902,35.084221
+125,585 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.106936,35.103135
+126,900 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.105456,35.11887
+127,933 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.420473,34.359456
+128,22181 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.344531,34.2883
+129,9587 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.752492,35.260305
+130,1212 Al-Wehda Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.929076,35.226098
+131,5170 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.544132,34.492061
+132,9634 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.543567,34.513994
+133,773 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.905731,35.202899
+134,3665 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.46806,35.281816
+135,5467 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.51037,35.069798
+136,92344 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.840288,35.125463
+137,873 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.906778,35.206573
+138,281 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.535844,34.515117
+139,82370 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.988996,35.136812
+140,63245 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.525257,35.151718
+141,3767 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.118454,35.117454
+142,462 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.523364,34.481508
+143,391 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.318935,35.010979
+144,476 Huwaij Street,Nablus,The State of Palestine,44839,The State of Palestine,32.238464,35.240803
+145,292 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.188563,35.023966
+146,8171 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.750082,35.26907
+147,33896 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.542533,34.49284
+148,561 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.715953,35.216028
+149,96250 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.719896,35.188031
+150,18486 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.423976,34.352132
+151,41496 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.707151,35.221868
+152,888 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.520377,35.158726
+153,8398 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.332654,35.016413
+154,431 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.55889,34.542506
+155,068 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.751979,35.264162
+156,7429 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.529172,34.482143
+157,744 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.544095,34.497251
+158,935 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.232965,35.267481
+159,581 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.181353,35.021508
+160,728 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.523195,35.154485
+161,8652 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.516609,35.063831
+162,4339 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.558866,34.545402
+163,1656 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.334819,35.020673
+164,528 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.461283,35.297184
+165,727 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.545595,35.101768
+166,31156 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.755996,35.266244
+167,95453 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.295712,34.241364
+168,284 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.844487,35.121509
+169,5557 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.351064,34.299562
+170,1365 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.181828,35.021741
+171,4627 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.856809,35.440011
+172,4588 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.288081,34.247946
+173,321 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.101425,35.112311
+174,207 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.994554,35.136567
+175,7650 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.500352,34.544115
+176,41101 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.545201,34.488119
+177,31235 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.511461,35.067013
+178,3456 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.107136,35.106639
+179,363 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.999791,35.132234
+180,56307 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.75913,35.26721
+181,083 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.343343,34.288767
+182,3227 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.115918,35.107396
+183,7246 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.54695,35.10357
+184,033 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.117404,35.114606
+185,453 Martyrs Street,Rafah,The State of Palestine,00800,The State of Palestine,31.282309,34.222336
+186,84036 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.976865,35.197489
+187,84698 Al-Makhfiya Street,Nablus,The State of Palestine,44839,The State of Palestine,32.211966,35.251309
+188,343 Al-Wehda Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.503056,34.536708
+189,001 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.311393,35.227141
+190,04365 Huwaij Street,Nablus,The State of Palestine,44839,The State of Palestine,32.222178,35.253831
+191,4153 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.557777,34.548347
+192,5911 Al-Quds Street,Biddu,The State of Palestine,90910,The State of Palestine,31.856131,35.127123
+193,9964 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.925629,35.223654
+194,71917 Al-Wehda Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.913761,35.21754
+195,5394 Al-Quds Street,Biddu,The State of Palestine,90910,The State of Palestine,31.856196,35.120149
+196,285 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.19689,34.588919
+197,2193 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.349689,34.290212
+198,7520 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.193124,34.597991
+199,8672 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.533857,34.48197
+200,4061 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.108924,35.105601
+201,93719 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.717015,35.200527
+202,5724 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.459818,35.099316
+203,8429 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.852443,35.454547
+204,606 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.719051,35.180443
+205,94488 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.752672,35.26471
+206,159 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.999235,35.134016
+207,89770 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.345226,34.288942
+208,59584 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.110068,35.118329
+209,785 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.845103,35.13121
+210,865 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.423479,34.354502
+211,9413 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.70795,35.229519
+212,98271 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.291344,34.245574
+213,490 Al-Makhfiya Street,Nablus,The State of Palestine,44839,The State of Palestine,32.219983,35.242091
+214,47923 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.194885,34.593249
+215,088 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.306134,34.229214
+216,236 Al-Wehda Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.546473,34.494876
+217,717 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.525469,35.156566
+218,371 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.516398,35.066562
+219,002 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.463441,35.092401
+220,986 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.551967,34.546606
+221,4145 Al-Amal Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.984731,35.182825
+222,22512 Al-Amal Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.988976,35.187734
+223,406 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.320172,35.228542
+224,13218 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.587782,35.105991
+225,165 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.858263,35.123402
+226,8193 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.102857,35.101551
+227,023 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.516005,35.061326
+228,725 Al-Amal Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.989069,35.193282
+229,928 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.70411,35.224987
+230,0347 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.517378,34.500563
+231,679 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.981799,35.14674
+232,11198 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.552227,34.548875
+233,01129 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.705357,35.221567
+234,41189 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.752565,35.264224
+235,7334 Al-Wehda Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.913745,35.219534
+236,7371 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.512948,35.067556
+237,904 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.30009,34.240714
+238,5048 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.182694,35.024526
+239,63004 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.456428,35.082459
+240,26403 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.901935,35.204122
+241,59187 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.989935,35.145626
+242,293 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.189064,35.021466
+243,3848 Al-Amal Street,Halhul,The State of Palestine,90450,The State of Palestine,31.587713,35.102452
+244,78484 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.554946,34.541444
+245,0645 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.906431,35.200048
+246,547 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.11399,35.114345
+247,232 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.752825,35.268643
+248,701 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.906837,35.205925
+249,156 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.429019,34.356334
+250,51327 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.521894,35.150345
+251,9403 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.717788,35.187195
+252,0732 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.705185,35.210439
+253,5864 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.543095,35.109943
+254,66244 Al-Quds Street,Biddu,The State of Palestine,90910,The State of Palestine,31.84805,35.138502
+255,6873 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.511381,35.064776
+256,665 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.716889,35.184966
+257,9959 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.284103,34.229783
+258,4672 Al-Quds Street,Biddu,The State of Palestine,90910,The State of Palestine,31.847672,35.136174
+259,90968 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.927642,35.219669
+260,7809 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.351539,34.29746
+261,88119 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.544141,34.487654
+262,77797 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.989818,35.196022
+263,484 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.315471,35.015289
+264,307 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.105227,35.109903
+265,2136 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.994544,35.143355
+266,762 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555897,34.545216
+267,11839 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.755565,35.260658
+268,1829 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.10904,35.109339
+269,40184 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.428189,34.351502
+270,807 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.453793,35.086118
+271,2009 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.520547,35.153695
+272,267 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.428224,34.354228
+273,6965 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.462805,35.08918
+274,80171 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.992889,35.138
+275,35855 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.180784,35.020931
+276,841 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.7011,35.225997
+277,850 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.457998,35.297613
+278,622 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.296644,34.226501
+279,2615 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.701571,35.228454
+280,4916 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.552582,34.546845
+281,706 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.861463,35.455188
+282,4734 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.718207,35.216558
+283,6150 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.538822,34.489198
+284,66445 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.428129,34.352243
+285,5824 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.759169,35.264359
+286,63392 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.31866,35.225332
+287,19151 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.110274,35.112472
+288,00493 Al-Amal Street,Halhul,The State of Palestine,90450,The State of Palestine,31.580884,35.113468
+289,7308 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.462227,35.081212
+290,5387 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.534045,35.106674
+291,703 Huwaij Street,Nablus,The State of Palestine,44839,The State of Palestine,32.219235,35.266255
+292,1086 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.519693,35.061051
+293,34995 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.182654,35.027202
+294,1360 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.523242,35.156606
+295,6857 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.422306,34.353699
+296,93889 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.715123,35.188398
+297,991 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.453654,35.298625
+298,1674 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.516738,35.060776
+299,1835 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.709237,35.220129
+300,3274 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.548798,34.497034
+301,314 Al-Quds Street,Biddu,The State of Palestine,90910,The State of Palestine,31.858912,35.137734
+302,528 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.536779,35.097059
+303,8565 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.113123,35.106285
+304,7842 Nativity Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.709227,35.219745
+305,1806 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.524657,35.151312
+306,0505 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.916491,35.217976
+307,0921 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.11571,35.100404
+308,2208 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.528107,35.158099
+309,85608 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.533191,34.489874
+310,1118 Al-Makhfiya Street,Nablus,The State of Palestine,44839,The State of Palestine,32.238749,35.260567
+311,956 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.464568,35.282432
+312,082 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.850415,35.448697
+313,022 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.719194,35.181558
+314,53737 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.339711,35.012138
+315,9178 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.755091,35.262253
+316,87284 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.450203,35.287998
+317,14977 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.71403,35.182208
+318,2506 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.30474,34.23299
+319,73622 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.183057,35.0284
+320,29727 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.558386,34.543355
+321,25697 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.313997,35.018613
+322,13682 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.707509,35.22709
+323,906 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.852515,35.452155
+324,12353 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.335419,35.029276
+325,010 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.519014,35.063881
+326,6690 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.458436,35.285436
+327,737 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.582762,35.105387
+328,474 Al-Wehda Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.542503,34.506643
+329,345 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.708612,35.227019
+330,556 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.909802,35.202836
+331,30182 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.104255,35.105105
+332,08061 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.301678,34.247783
+333,2904 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.844003,35.127118
+334,9542 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.527463,34.530307
+335,670 Nativity Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.706264,35.20404
+336,2571 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.190851,34.586812
+337,417 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.534782,34.452415
+338,7940 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.194193,34.580059
+339,99038 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.421907,34.356025
+340,3869 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.71153,35.182717
+341,80283 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.355321,34.295488
+342,09171 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.355998,34.290249
+343,8250 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.706141,35.224826
+344,44678 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.184141,35.029236
+345,6448 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.53076,34.543178
+346,2553 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.913723,35.222224
+347,4272 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.359587,34.296716
+348,546 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.71046,35.182863
+349,4475 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.102716,35.107503
+350,11893 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.59826,35.112545
+351,66664 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.928781,35.216504
+352,239 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.450693,35.289316
+353,5113 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.459461,35.094925
+354,98939 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555527,34.541946
+355,314 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.460173,35.297651
+356,131 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.549068,35.105231
+357,72103 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.183773,35.02838
+358,2843 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.109927,35.116134
+359,11576 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.342995,34.29083
+360,3781 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.185089,35.023655
+361,666 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.325266,35.233953
+362,923 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.319432,35.02299
+363,4224 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.347086,34.281434
+364,4786 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.594977,35.114376
+365,8900 Al-Quds Street,Tubas,The State of Palestine,44838,The State of Palestine,32.32189,35.238435
+366,0310 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.322268,35.229193
+367,646 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.356972,34.291902
+368,85399 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.902824,35.207851
+369,84403 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.756642,35.266043
+370,883 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.541043,34.498834
+371,428 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.926919,35.226904
+372,402 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.428223,34.356537
+373,57621 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.513832,35.062153
+374,9879 Al-Wehda Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.925871,35.212137
+375,11230 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.92271,35.216057
+376,3603 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.711773,35.201721
+377,82833 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.106863,35.101274
+378,9428 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.331844,35.018455
+379,417 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.18454,35.028143
+380,664 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.508926,34.467143
+381,3585 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.514498,34.522248
+382,02423 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555278,34.546827
+383,313 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.849372,35.134745
+384,4210 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.196858,34.594898
+385,5065 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.859498,35.123128
+386,951 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.452491,35.290907
+387,208 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.421384,34.351027
+388,55619 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.546997,34.496199
+389,06739 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.197173,34.599096
+390,61761 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.520935,34.483236
+391,259 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.902956,35.208099
+392,4765 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.9096,35.206348
+393,0354 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.468673,35.096958
+394,451 Al-Amal Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.977649,35.191238
+395,269 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.108096,35.109003
+396,05449 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.908784,35.204632
+397,178 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.212722,35.24404
+398,9114 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.848143,35.121865
+399,979 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.291211,34.227839
+400,1485 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.519533,35.068425
+401,779 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.427714,34.350442
+402,322 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.52827,34.490768
+403,2875 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.420307,34.353982
+404,5844 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.599978,35.118781
+405,3303 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.703462,35.213644
+406,63875 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.350177,34.297627
+407,762 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.541753,35.106878
+408,091 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.548121,35.11088
+409,83247 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.451049,35.292733
+410,433 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.319093,35.011921
+411,25902 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.84068,35.123458
+412,33735 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.926737,35.210838
+413,483 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.519033,35.061195
+414,73091 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.54528,35.117251
+415,75250 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.458264,35.289508
+416,703 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.510234,35.068512
+417,8404 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.219014,35.245983
+418,673 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.982419,35.193927
+419,448 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.512464,35.069006
+420,6131 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.281417,34.245169
+421,1089 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.905261,35.205834
+422,9422 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.538054,34.480497
+423,8079 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.467781,35.083742
+424,021 Al-Quds Street,Tubas,The State of Palestine,44838,The State of Palestine,32.326215,35.221971
+425,4159 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.543345,35.117075
+426,8119 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.180473,35.02394
+427,062 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.188838,35.028117
+428,433 Al-Quds Street,Biddu,The State of Palestine,90910,The State of Palestine,31.847211,35.129068
+429,7225 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.971114,35.181395
+430,70452 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.218848,35.252744
+431,8100 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.986421,35.135836
+432,4136 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.199579,34.587198
+433,6750 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.913385,35.215138
+434,83796 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.427408,34.354328
+435,1789 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.467272,35.286362
+436,04216 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.526671,34.540674
+437,9301 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.450446,35.085541
+438,7653 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.456019,35.28278
+439,76556 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.901464,35.202335
+440,20817 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.518009,35.068346
+441,34052 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.422198,34.359239
+442,151 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.758058,35.261826
+443,0513 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.106408,35.117316
+444,352 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.532729,34.481692
+445,3651 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.453567,35.093117
+446,77831 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.704699,35.221646
+447,52914 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.701598,35.219374
+448,4770 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.90797,35.202761
+449,8260 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.193119,34.592324
+450,04159 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.540204,35.109565
+451,424 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.422959,34.354328
+452,4751 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.322647,35.011165
+453,000 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.508256,34.466153
+454,670 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.520306,35.151717
+455,81534 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.19274,34.592446
+456,907 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.347443,34.288556
+457,76035 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.181681,35.026732
+458,89174 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.924352,35.215712
+459,90171 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.987067,35.131397
+460,89414 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.238769,35.244889
+461,9516 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.28405,34.241844
+462,72382 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.544417,34.491584
+463,0245 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.526695,34.475563
+464,3681 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.455948,35.096885
+465,629 Al-Amal Street,Halhul,The State of Palestine,90450,The State of Palestine,31.595852,35.104332
+466,29197 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.713135,35.181059
+467,7399 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.108176,35.110598
+468,1247 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.188977,35.021244
+469,71771 Al-Makhfiya Street,Nablus,The State of Palestine,44839,The State of Palestine,32.236417,35.268216
+470,4792 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.190557,34.591984
+471,585 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.70696,35.221721
+472,85344 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.182317,35.023278
+473,41797 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.904035,35.200153
+474,6554 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.192095,34.592149
+475,27436 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.590961,35.117796
+476,00661 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.718502,35.186169
+477,18980 Ariha Street,Jericho,The State of Palestine,90600,The State of Palestine,31.855373,35.454942
+478,8058 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.537051,34.539383
+479,933 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.23572,35.255687
+480,6912 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.713116,35.201459
+481,82668 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.995915,35.13349
+482,13981 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.701354,35.226441
+483,80096 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.558287,34.542636
+484,42446 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.543175,34.495268
+485,467 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.981945,35.135908
+486,510 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.982983,35.193471
+487,6625 Nativity Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.710783,35.202171
+488,657 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.929535,35.225559
+489,7499 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.539948,35.113837
+490,131 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.357086,34.287611
+491,39687 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.869417,35.448161
+492,74297 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.351847,34.291993
+493,4217 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.984344,35.188515
+494,64912 Al-Wehda Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.543713,34.479778
+495,60593 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.758771,35.269849
+496,24123 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.514999,35.061937
+497,13984 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.70138,35.20713
+498,4747 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.554798,34.545312
+499,772 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.300888,34.240913
+500,55851 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.855013,35.456795
+501,00512 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.914108,35.21323
+502,455 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.523915,34.491371
+503,145 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.465237,35.096201
+504,15655 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.538015,34.524331
+505,345 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.557191,34.546925
+506,329 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.347375,34.287391
+507,835 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.551476,34.548778
+508,944 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.186078,35.02922
+509,8193 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.295593,34.236965
+510,865 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.198238,34.597066
+511,94695 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.197715,34.59751
+512,53079 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.909751,35.202401
+513,2886 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.537158,34.49755
+514,3602 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.285631,34.224673
+515,487 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.331421,35.029304
+516,9118 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.708793,35.205184
+517,841 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.868075,35.454233
+518,36521 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.111289,35.100119
+519,732 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.196357,34.585305
+520,561 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.527488,34.462664
+521,048 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.522522,34.489701
+522,9953 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.313957,35.01034
+523,76736 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.858474,35.130333
+524,02466 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.551895,34.545725
+525,2659 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.19541,34.592069
+526,4408 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.709837,35.223667
+527,037 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.468489,35.081552
+528,2749 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.710996,35.187293
+529,84977 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.524366,35.157202
+530,39453 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.315865,35.029908
+531,113 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.526788,35.159065
+532,9082 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.353644,34.293346
+533,963 Al-Makhfiya Street,Nablus,The State of Palestine,44839,The State of Palestine,32.2342,35.242714
+534,777 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.217889,35.247435
+535,579 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.421951,34.35239
+536,7670 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.900324,35.208332
+537,8095 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.702969,35.226736
+538,03934 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.548121,34.485442
+539,356 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.521733,35.150713
+540,0830 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.524826,35.159347
+541,2393 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.463716,35.093937
+542,02909 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.984284,35.138603
+543,43539 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.585002,35.10217
+544,044 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.180931,35.021647
+545,43246 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.462313,35.282913
+546,7110 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.281854,34.229702
+547,41853 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.312413,35.237922
+548,495 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.75631,35.260886
+549,7275 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.843557,35.135381
+550,6716 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.554999,34.540645
+551,19904 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.104947,35.118451
+552,051 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.855388,35.444953
+553,79847 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.53573,34.487516
+554,3431 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.851474,35.127702
+555,459 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.717332,35.219081
+556,14339 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.996763,35.137242
+557,5322 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.457243,35.099786
+558,45511 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.336071,35.015429
+559,85706 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.422605,34.359146
+560,0433 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.116961,35.118021
+561,48868 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.981391,35.181175
+562,703 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.908911,35.203104
+563,978 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.456205,35.093689
+564,70216 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.296383,34.223946
+565,85945 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.759208,35.260752
+566,08717 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.533758,35.113084
+567,9900 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.920325,35.224454
+568,853 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.755023,35.260292
+569,5982 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.559925,34.542256
+570,29608 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.425677,34.350554
+571,055 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.711368,35.186432
+572,95126 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.538105,35.092321
+573,408 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.75951,35.26919
+574,37140 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.324937,35.221775
+575,73457 Al-Wehda Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.521202,34.485157
+576,275 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.702373,35.214938
+577,7285 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.515917,35.06358
+578,86204 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.358469,34.285217
+579,001 Al-Wehda Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.921598,35.21719
+580,216 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.86171,35.44292
+581,88230 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.191745,34.583168
+582,81384 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.907501,35.201858
+583,17418 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.327888,35.028146
+584,3551 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.546187,34.489281
+585,7440 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.521146,35.157329
+586,73030 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.452516,35.291324
+587,424 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.529096,35.157853
+588,33691 Al-Amal Street,Halhul,The State of Palestine,90450,The State of Palestine,31.592576,35.102422
+589,787 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.754297,35.263696
+590,46636 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.190141,34.589009
+591,3463 Al-Quds Street,Tubas,The State of Palestine,44838,The State of Palestine,32.329069,35.237896
+592,211 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.195714,34.59213
+593,31046 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.989508,35.190148
+594,0496 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.525927,34.499767
+595,9225 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.317573,35.22134
+596,33218 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.511098,35.066253
+597,0347 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.596028,35.105665
+598,58912 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.986377,35.134475
+599,599 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.98031,35.181383
+600,728 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.463239,35.095466
+601,60666 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.52943,35.154105
+602,9197 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.986465,35.190793
+603,680 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.713425,35.188666
+604,50957 Nativity Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.700598,35.214956
+605,21941 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.553167,34.549158
+606,7014 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.42866,34.350543
+607,83757 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.546146,35.094173
+608,335 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.977445,35.181434
+609,6907 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.329248,35.027256
+610,2653 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.591727,35.113327
+611,453 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.918384,35.210693
+612,08480 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.714319,35.215624
+613,270 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.189962,35.022346
+614,52437 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.544336,35.116987
+615,564 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.911693,35.226765
+616,87179 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.458817,35.299558
+617,9366 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.910822,35.22818
+618,45793 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.46952,35.283167
+619,716 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.358448,34.294984
+620,37444 Al-Quds Street,Tubas,The State of Palestine,44838,The State of Palestine,32.313502,35.22186
+621,86166 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.511798,35.064163
+622,4818 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.525071,35.159633
+623,8018 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.590393,35.105467
+624,8140 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.913466,35.210944
+625,66718 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.532866,35.119614
+626,36956 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.504306,34.491027
+627,505 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.915148,35.213856
+628,6603 Omar Mukhtar Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.533944,34.51633
+629,952 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.321921,35.025842
+630,2247 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.31828,35.222425
+631,8155 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.427053,34.355685
+632,0944 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.756999,35.264103
+633,79165 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.51938,35.064044
+634,6005 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.190381,34.596941
+635,166 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.523928,35.152871
+636,30055 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.193623,34.581748
+637,3864 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.704693,35.220786
+638,31934 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.705346,35.228561
+639,498 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.325838,35.230584
+640,3772 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.238398,35.245699
+641,4367 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.334799,35.024027
+642,85391 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.759642,35.262639
+643,17179 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.757074,35.268871
+644,4439 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.70228,35.206771
+645,92379 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.842319,35.132644
+646,232 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.527889,34.483144
+647,302 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.429091,34.3588
+648,106 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.589015,35.108948
+649,6728 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.759666,35.263848
+650,994 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.590649,35.118132
+651,167 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.54372,34.488456
+652,108 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.227644,35.241792
+653,04811 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.427507,34.359765
+654,74950 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.597334,35.103339
+655,54919 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.459482,35.283063
+656,5604 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.282225,34.221486
+657,74282 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.420751,34.357593
+658,6906 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.706163,35.220724
+659,744 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.712948,35.189918
+660,301 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.528856,35.158632
+661,9399 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.753838,35.269342
+662,2788 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.296305,34.245034
+663,2894 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.311914,35.221633
+664,63808 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.468928,35.089468
+665,14094 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.469518,35.284259
+666,446 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.313935,35.019999
+667,13679 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.340272,34.299728
+668,151 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.329193,35.026126
+669,183 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.992473,35.14446
+670,730 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.85814,35.139462
+671,7657 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.701869,35.227564
+672,6652 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.706607,35.220198
+673,4260 Nativity Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.715004,35.219465
+674,0075 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.711024,35.212727
+675,779 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.863399,35.45376
+676,49520 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.758618,35.262072
+677,13996 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.900216,35.206651
+678,1996 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.425003,34.357399
+679,07627 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.844071,35.139134
+680,179 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.909831,35.20432
+681,6284 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.535677,34.496694
+682,483 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.351452,34.285973
+683,6667 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.455054,35.092631
+684,07469 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.345348,34.295846
+685,200 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.453036,35.292213
+686,57174 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.982496,35.131875
+687,3284 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.977206,35.195912
+688,2304 Huwaij Street,Nablus,The State of Palestine,44839,The State of Palestine,32.23803,35.261921
+689,51124 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.709194,35.220192
+690,344 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.532981,35.098903
+691,035 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.750254,35.262479
+692,565 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.105535,35.118762
+693,6526 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.183185,35.028375
+694,53948 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555975,34.540656
+695,811 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.118296,35.101468
+696,649 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.350621,34.29142
+697,83455 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.424668,34.359038
+698,198 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.984087,35.19118
+699,3137 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.593738,35.106262
+700,2725 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.512551,35.067411
+701,370 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.199255,34.581698
+702,99224 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.533203,34.495242
+703,8182 Paris Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.329444,35.017619
+704,776 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.182267,35.023621
+705,5996 Nativity Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.704279,35.20393
+706,7186 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.292689,34.244346
+707,98265 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.235322,35.264647
+708,04154 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.464647,35.084797
+709,243 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.587377,35.112305
+710,57764 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.711475,35.181043
+711,24360 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.429734,34.352837
+712,55013 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.849498,35.137963
+713,11690 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.521841,35.153977
+714,755 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.983168,35.146974
+715,95359 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.750945,35.26061
+716,388 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.842254,35.126568
+717,277 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.424159,34.355795
+718,0399 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.713457,35.180346
+719,08033 Martyrs Street,Rafah,The State of Palestine,00800,The State of Palestine,31.308362,34.2285
+720,9351 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.971781,35.199063
+721,45588 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.514381,35.065694
+722,07613 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.854239,35.13302
+723,67124 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.526297,35.15959
+724,456 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.527377,34.495189
+725,523 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.515552,35.060577
+726,089 Al-Quds Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.530342,34.463617
+727,031 Al-Najjar Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.706809,35.226069
+728,9068 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.348063,34.294329
+729,5192 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.704566,35.226052
+730,879 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.855077,35.459793
+731,0199 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.862404,35.456444
+732,99331 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.52325,35.156443
+733,83297 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.985114,35.182591
+734,41233 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.708272,35.229358
+735,952 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.423314,34.359561
+736,6562 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.716908,35.187567
+737,380 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.318083,35.016812
+738,18881 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.540296,35.116192
+739,917 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.706943,35.219162
+740,77756 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.716494,35.182485
+741,613 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.451297,35.081209
+742,3895 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.545102,35.118035
+743,69593 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.421283,34.352159
+744,80181 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.337165,35.012683
+745,6942 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.195906,34.58125
+746,84903 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.316435,35.02187
+747,769 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.859203,35.44997
+748,9286 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.531066,34.498528
+749,47480 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.514557,35.060365
+750,36196 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.512208,35.068352
+751,94484 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.328466,35.225998
+752,8457 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.85344,35.446328
+753,207 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.459857,35.298349
+754,4550 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.529844,35.157718
+755,0468 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.422986,34.35247
+756,8944 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.711912,35.188089
+757,3693 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.70885,35.203159
+758,89262 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.848787,35.128734
+759,9176 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.547671,34.484613
+760,4446 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.849217,35.13459
+761,4883 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.905266,35.201537
+762,863 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.461908,35.098708
+763,3452 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.11768,35.116418
+764,382 Ariha Street,Jericho,The State of Palestine,90600,The State of Palestine,31.851452,35.441231
+765,9822 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.986107,35.131713
+766,985 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.452178,35.291836
+767,93181 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.31554,35.233091
+768,34196 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.455976,35.097686
+769,0646 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.460777,35.099945
+770,5662 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.702365,35.224437
+771,65663 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.326229,35.239087
+772,03211 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.706498,35.207426
+773,16940 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.539689,35.102806
+774,532 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.552225,34.545041
+775,687 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.296211,34.22995
+776,4316 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.586449,35.115871
+777,126 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.280587,34.241854
+778,003 Al-Amal Street,Dura,The State of Palestine,90200,The State of Palestine,31.511331,35.067923
+779,83650 Al-Quds Street,Biddu,The State of Palestine,90910,The State of Palestine,31.854504,35.121755
+780,15362 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555376,34.540287
+781,9717 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.531408,34.492104
+782,4905 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.983956,35.19956
+783,54424 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.510009,35.065978
+784,3100 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.300956,34.236322
+785,586 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.313684,35.23608
+786,7656 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.974997,35.197141
+787,20375 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.31462,35.22326
+788,0095 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.553679,34.549119
+789,90756 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.224308,35.244035
+790,3662 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.187302,35.023889
+791,2974 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.588336,35.106956
+792,5693 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.523123,35.152583
+793,217 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.755505,35.266849
+794,5081 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.840041,35.124156
+795,1481 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.184906,35.021184
+796,49451 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.842259,35.131992
+797,204 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.518619,35.061765
+798,880 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.322658,35.025091
+799,700 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.189552,35.02895
+800,6396 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.512381,35.0697
+801,2612 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.970242,35.181153
+802,46879 Al-Amal Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.35159,34.287829
+803,97377 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.851703,35.126654
+804,6152 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.42145,34.352749
+805,0365 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.456628,35.28833
+806,713 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.10991,35.112282
+807,526 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.188462,35.027377
+808,61028 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.556749,34.543999
+809,709 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.354177,34.291395
+810,00995 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.705345,35.221774
+811,4713 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.984102,35.182982
+812,7670 Al-Amal Street,Halhul,The State of Palestine,90450,The State of Palestine,31.589913,35.107985
+813,1954 Al-Amal Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.984374,35.198013
+814,7610 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.462921,35.292059
+815,8278 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.236251,35.247529
+816,06499 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.451694,35.099043
+817,8043 Al-Quds Street,Tubas,The State of Palestine,44838,The State of Palestine,32.311948,35.225585
+818,773 Jaffa Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.326987,35.018037
+819,38633 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.192539,34.582899
+820,8487 Huwaij Street,Nablus,The State of Palestine,44839,The State of Palestine,32.221884,35.245178
+821,5032 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.714032,35.180145
+822,3040 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.582352,35.10978
+823,037 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.554356,34.544505
+824,064 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.45444,35.099658
+825,97340 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.510143,35.06192
+826,16825 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.984107,35.135839
+827,0631 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.542312,35.113924
+828,311 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.219691,35.268641
+829,687 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.976179,35.195533
+830,89447 Al-Amal Street,Halhul,The State of Palestine,90450,The State of Palestine,31.582571,35.108733
+831,9702 Asira Street,Azzun,The State of Palestine,44846,The State of Palestine,32.183656,35.026505
+832,246 Al-Quds Street,Halhul,The State of Palestine,90450,The State of Palestine,31.583204,35.105556
+833,67120 Wadi Al-Tuffah Street,Hebron,The State of Palestine,90100,The State of Palestine,31.53222,35.093689
+834,758 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555254,34.546038
+835,1182 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.753655,35.263567
+836,064 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.539767,35.095681
+837,99925 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.466397,35.082658
+838,20073 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.420307,34.358098
+839,93119 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.319636,35.228625
+840,9557 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.513039,35.067524
+841,8845 Al-Najma Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.538276,34.488458
+842,01890 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.982575,35.139902
+843,26128 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.994043,35.135779
+844,13625 Al-Amal Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.981978,35.194519
+845,2709 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.910624,35.224343
+846,683 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.115772,35.105388
+847,2478 Al-Quds Street,Dura,The State of Palestine,90200,The State of Palestine,31.512536,35.064298
+848,35079 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.868681,35.446746
+849,47089 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.533019,35.101291
+850,8372 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.718315,35.184453
+851,989 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.454741,35.28453
+852,126 Al-Amal Street,Biddu,The State of Palestine,90910,The State of Palestine,31.859875,35.120819
+853,513 Asira Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.192698,34.58833
+854,2758 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.184993,35.021725
+855,1346 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.911527,35.219461
+856,669 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.192061,34.583779
+857,844 Old City Street,Nablus,The State of Palestine,44839,The State of Palestine,32.218662,35.258589
+858,2337 Al-Wehda Street,Tubas,The State of Palestine,44838,The State of Palestine,32.315911,35.22825
+859,081 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.422121,34.350714
+860,8815 Ariha Street,Jericho,The State of Palestine,90600,The State of Palestine,31.857311,35.443293
+861,6070 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.460651,35.087258
+862,2777 Star Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.710899,35.219006
+863,6363 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.112087,35.103566
+864,030 Paul VI Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.70575,35.213417
+865,7925 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.559751,34.543315
+866,385 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.986401,35.188819
+867,5226 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.712022,35.183477
+868,0175 Al-Salam Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.529805,35.158789
+869,7863 Al-Naser Street,Rafah,The State of Palestine,00800,The State of Palestine,31.289249,34.223153
+870,64704 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.422245,34.356888
+871,26447 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.453644,35.092674
+872,21160 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.540272,35.109459
+873,3361 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.524536,34.497278
+874,642 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.715066,35.187195
+875,8317 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.71999,35.189341
+876,06293 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.197824,34.593876
+877,9768 Al-Amal Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.92482,35.226806
+878,4225 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.703495,35.228352
+879,6428 Al-Jalaa Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.528883,34.481652
+880,17689 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.10725,35.111472
+881,75506 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.527852,35.150514
+882,4955 Al-Quds Street,Yatta,The State of Palestine,90300,The State of Palestine,31.468644,35.098399
+883,16387 Nativity Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.710832,35.216826
+884,6644 Al-Shab Street,Rafah,The State of Palestine,00800,The State of Palestine,31.308232,34.222835
+885,803 Al-Irsal Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.905485,35.200501
+886,518 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.19279,34.587272
+887,1634 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.993643,35.143584
+888,70519 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.551988,34.542313
+889,67868 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.755916,35.260032
+890,533 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.553455,34.54862
+891,6925 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.704056,35.227923
+892,1668 Al-Quds Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.99018,35.141703
+893,86970 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.711936,35.18928
+894,60566 Al-Quds Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.751008,35.267226
+895,120 Azzahra Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.757023,35.264526
+896,47333 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.716574,35.211005
+897,355 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.555068,34.549627
+898,5474 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.976095,35.180293
+899,3129 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.973869,35.195995
+900,176 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.510806,35.067404
+901,90404 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.7533,35.267083
+902,59725 Al-Wehda Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.544656,34.478646
+903,968 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.974552,35.185436
+904,8145 Zahra Street,Jenin,The State of Palestine,44843,The State of Palestine,32.455243,35.290617
+905,3984 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.319982,35.229102
+906,854 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.993559,35.132565
+907,0212 Al-Amal Street,Yatta,The State of Palestine,90300,The State of Palestine,31.461353,35.095046
+908,89154 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.116212,35.107643
+909,00917 Al-Salam Street,Hebron,The State of Palestine,90100,The State of Palestine,31.54286,35.101671
+910,07504 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.46146,35.2833
+911,2469 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.457682,35.097169
+912,5364 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.233856,35.256983
+913,54387 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.534695,35.09846
+914,877 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.97326,35.182511
+915,1165 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.524982,35.152378
+916,708 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.421956,34.353042
+917,75387 Al-Manara Square,Ramallah,The State of Palestine,90710,The State of Palestine,31.907228,35.20394
+918,3832 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.98112,35.145734
+919,6026 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.700267,35.205551
+920,2598 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.589412,35.103334
+921,927 Ariha Street,Jericho,The State of Palestine,90600,The State of Palestine,31.852714,35.441571
+922,8759 Huwaij Street,Nablus,The State of Palestine,44839,The State of Palestine,32.22684,35.251751
+923,6297 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.348368,34.287558
+924,981 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.983919,35.193057
+925,54378 Al-Quds Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.42192,34.355781
+926,45768 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.543136,35.099694
+927,592 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.183083,35.023956
+928,06255 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.462184,35.284909
+929,32153 Azzun Street,Azzun,The State of Palestine,44846,The State of Palestine,32.182717,35.027534
+930,6809 Haifa Street,Jenin,The State of Palestine,44843,The State of Palestine,32.4598,35.299323
+931,22972 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.521187,35.154729
+932,8258 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.102044,35.116358
+933,049 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.355279,34.285867
+934,518 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.100887,35.111314
+935,9347 Al-Amal Street,Salfit,The State of Palestine,44837,The State of Palestine,32.108439,35.101072
+936,025 Martyrs Street,Rafah,The State of Palestine,00800,The State of Palestine,31.288966,34.225738
+937,8633 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.194823,34.580585
+938,419 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.587046,35.116286
+939,5927 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.750295,35.265023
+940,0015 Cremisan Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.714268,35.187842
+941,87902 Salah Eddin Street,Abu Dis,The State of Palestine,90000,The State of Palestine,31.751611,35.262535
+942,74624 Hajja Street,Azzun,The State of Palestine,44846,The State of Palestine,32.186056,35.027478
+943,84338 Al-Quds Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.556393,34.541688
+944,28143 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.712999,35.201501
+945,3183 Al-Wehda Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.982658,35.130816
+946,460 Al-Quds Street,Jabalia,The State of Palestine,00950,The State of Palestine,31.5391,34.490297
+947,275 Al-Bahr Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.552049,34.544728
+948,21453 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.716904,35.181064
+949,57361 Al-Wehda Street,Salfit,The State of Palestine,44837,The State of Palestine,32.109975,35.116714
+950,4209 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.840024,35.125004
+951,4389 Al-Quds Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.979529,35.190791
+952,93918 Rafidia Street,Nablus,The State of Palestine,44839,The State of Palestine,32.233336,35.249529
+953,79624 Al-Khader Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.711371,35.189155
+954,16464 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.319951,35.2233
+955,7852 Al-Wehda Street,Dura,The State of Palestine,90200,The State of Palestine,31.510282,35.062256
+956,18155 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.527408,35.152731
+957,1374 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.349398,34.280334
+958,9291 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.322611,35.226561
+959,07793 Al-Amal Street,Bani Zeid,The State of Palestine,90620,The State of Palestine,31.982743,35.132505
+960,28580 Sibat Street,Jenin,The State of Palestine,44843,The State of Palestine,32.463098,35.289932
+961,1530 Al-Wehda Street,Halhul,The State of Palestine,90450,The State of Palestine,31.596139,35.110409
+962,6050 Shuhada Street,Hebron,The State of Palestine,90100,The State of Palestine,31.532543,35.119155
+963,377 Manger Street,Bethlehem,The State of Palestine,90907,The State of Palestine,31.701316,35.202278
+964,775 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.520897,35.155321
+965,644 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.311677,35.234318
+966,148 Main Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.528896,35.153336
+967,46234 Al-Quds Street,Tubas,The State of Palestine,44838,The State of Palestine,32.323699,35.220917
+968,38550 Azzun Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.190534,34.598093
+969,43600 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.357972,34.299974
+970,65593 Al-Amal Street,Tubas,The State of Palestine,44838,The State of Palestine,32.325528,35.231457
+971,175 Al-Wehda Street,Yatta,The State of Palestine,90300,The State of Palestine,31.465383,35.095957
+972,0226 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.980821,35.194047
+973,4099 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.198257,34.583437
+974,36849 Al-Wehda Street,Biddu,The State of Palestine,90910,The State of Palestine,31.850426,35.137289
+975,3405 Beir Onah Street,Beit Jala,The State of Palestine,90918,The State of Palestine,31.71934,35.189577
+976,407 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.118505,35.103111
+977,3858 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.556126,34.54859
+978,116 Salah Eddin Street,Beit Hanoun,The State of Palestine,00960,The State of Palestine,31.556178,34.543917
+979,6687 Al-Rasheed Street,Gaza City,The State of Palestine,00970,The State of Palestine,31.518482,34.527625
+980,90681 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.298853,34.24404
+981,436 Al-Quds Street,Salfit,The State of Palestine,44837,The State of Palestine,32.116409,35.117608
+982,2775 Al-Madares Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.421999,34.356438
+983,52526 Al-Bahr Street,Rafah,The State of Palestine,00800,The State of Palestine,31.285348,34.228765
+984,10786 Baladya Street,Tulkarem,The State of Palestine,44840,The State of Palestine,32.321462,35.016817
+985,78959 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.703362,35.226235
+986,085 Gaza-Khan Yunis Road,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.359873,34.285109
+987,86726 Al-Wehda Street,Birzeit,The State of Palestine,90845,The State of Palestine,31.981476,35.192633
+988,358 Aqabat Jaber Street,Jericho,The State of Palestine,90600,The State of Palestine,31.85792,35.440992
+989,017 School Street,Bani Na'im,The State of Palestine,90400,The State of Palestine,31.529552,35.150024
+990,0449 Shepherds Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.704156,35.220251
+991,3473 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.854861,35.456217
+992,13404 Al-Saada Street,Deir al-Balah,The State of Palestine,00920,The State of Palestine,31.42771,34.354694
+993,078 Jamal Abdel Nasser Street,Khan Yunis,The State of Palestine,00930,The State of Palestine,31.351732,34.298587
+994,4796 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.913527,35.2161
+995,840 Umm Al-Rakab Street,Beit Sahour,The State of Palestine,90917,The State of Palestine,31.705045,35.222568
+996,05985 Al-Quds Street,Al-Bireh,The State of Palestine,90710,The State of Palestine,31.925414,35.225232
+997,6910 Hajja Street,Qalqilya,The State of Palestine,44844,The State of Palestine,32.196853,34.591711
+998,866 Al-Amal Street,Halhul,The State of Palestine,90450,The State of Palestine,31.584519,35.101934
+999,758 Al-Quds Street,Ramallah,The State of Palestine,90710,The State of Palestine,31.90177,35.209119
+1000,15099 Al-Karameh Street,Jericho,The State of Palestine,90600,The State of Palestine,31.865327,35.440732
